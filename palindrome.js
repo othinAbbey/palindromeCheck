@@ -1,4 +1,4 @@
-let words = ["kayak", "noon", "hi", "hello", "madam"];
+let words = ["refer", "rotor", "level", "hello", "madam","length", "width"];
 function firstPalindrome(words) {
   let palindrome = [];
   for (let i = 0; i < words.length; i++) {
